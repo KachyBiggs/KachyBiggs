@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @KachyBiggs
-- 👀 I am a front end developer
-- 🌱 I’m currently finetuning my react skills 
+- 👋 Hi, I’m @KachyBiggs..
+- 👀 I am a front end developer..
+- 🌱 I’m currently gaining mastery of my Anhular and React skills..
+- I am also looking at software quality assurance at the moment..
 - 📫 How to reach me ...michaels_kachy@yahoo.com
 
 <!---
