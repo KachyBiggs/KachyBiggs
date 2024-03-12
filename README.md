@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KachyBiggs
-- 👀 I’m interested in frontend web development.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
-- 💞️ I’m looking to learn the basics and grow from there.
+- 👀 I am a front end developer
+- 🌱 I’m currently finetuning my react skills 
 - 📫 How to reach me ...michaels_kachy@yahoo.com
 
 <!---
